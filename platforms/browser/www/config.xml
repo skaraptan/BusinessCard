@@ -3,8 +3,8 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>Personal data</name>
-    <description>My personal data</description>
+    <name>Business card</name>
+    <description>Business card</description>
     <author email="s.karaptan@gmail.com" href="http://github.com/skaraptan">
 		Serhiy Karaptan
 	</author>
